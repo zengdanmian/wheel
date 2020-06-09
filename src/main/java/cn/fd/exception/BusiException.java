@@ -1,4 +1,4 @@
-package cn.fd.mvc.exception;
+package cn.fd.exception;
 
 import org.apache.commons.lang3.StringUtils;
 
